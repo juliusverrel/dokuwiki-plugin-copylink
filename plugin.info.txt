@@ -1,0 +1,8 @@
+
+base   copylink
+author Julius Verrel
+email  jv.git@posteo.de
+date   2018-10-18
+name   CopyLink
+desc   insert link, copying internal id of current page to clipboard
+url    https://www.dokuwiki.org/plugin:copylink

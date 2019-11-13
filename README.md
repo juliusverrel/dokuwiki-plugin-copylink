@@ -1,2 +1,9 @@
-# dokuwiki-plugin-copylink
-Copy link of current page ID to clipboard
+dokuwiki-plugin-copylink
+========================
+
+Insert a (dummy-)link to current page, clicking it executes JS command copying the internal ID (wiki address) of the current page to the clipboard. 
+
+Syntax: 
+
+   <copylink>
+
