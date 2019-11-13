@@ -5,5 +5,5 @@ Insert a (dummy-)link to current page, clicking it executes JS command copying t
 
 Syntax: 
 
-   <copylink>
+`<copylink>`
 
